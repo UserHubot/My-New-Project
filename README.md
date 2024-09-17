@@ -17,4 +17,4 @@ One current problem in society that could be effectively addressed using AI is t
 By integrating AI into mental health services, we can increase accessibility, reduce costs, and improve the overall support available to individuals who need it.
 
 
-# Summary https://github.com/UserHubot/README -Building AI course project  - How AI Can be used to help benefit those with mental health needs by providing virtual theropy, threatment plans, being able to indicate early signs of symptoms which include depression, anxiety, or if needing help from an unhealthy/unsafe situation. Helping educate people on mental health and reducing the negative stigma in a less invasive way from the comfort of home.
+# Summary -Building AI course project  - How AI Can be used to help benefit those with mental health needs by providing virtual therapy, treatment plans, being able to indicate early signs of symptoms which include depression, anxiety, or if needing help from an unhealthy/unsafe situation. Helping educate people on mental health and reducing the negative stigma in a less invasive way from the comfort of home.
